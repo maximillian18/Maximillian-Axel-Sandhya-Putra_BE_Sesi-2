@@ -109,6 +109,6 @@ $transaksi = [
     ["kode" => "A004", "jumlah" => 1]
 ];
 
-// Jalankan
 buatStrukBelanja($transaksi, $produk);
+
 ?>
